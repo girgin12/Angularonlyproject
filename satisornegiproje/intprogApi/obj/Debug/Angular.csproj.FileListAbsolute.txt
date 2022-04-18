@@ -1,0 +1,42 @@
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\csc.exe
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\vbc.exe
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\intprogApi.dll.config
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\intprogApi.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\intprogApi.pdb
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\obj\Debug\intprogApi.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\obj\Debug\intprogApi.pdb
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\intprogApi\obj\Debug\Angular.csprojResolveAssemblyReference.cache
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\csc.exe
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\vbc.exe
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\intprogApi.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\intprogApi.pdb
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\obj\Debug\Angular.csproj.CoreCompileInputs.cache
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\obj\Debug\Angular.csproj.CopyComplete
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\obj\Debug\intprogApi.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\obj\Debug\intprogApi.pdb
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\bin\intprogApi.dll.config
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\intprogApi\obj\Debug\Angular.csprojAssemblyReference.cache

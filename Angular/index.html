@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <!--ANGULARJS-->
+    <script src="angular.min.js"></script>
+    <script src="nbg.js"></script>
+    <!--BOOTSTRAP-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body ng-app="beun" ng-controller="emyoCtrl">
+    <div class="col-md-6">
+        <div class="alert alert-info">
+            <span>KULLANICILAR</span>
+            <button ng-init="kullanicilargorunsunmu = false" ng-click="kullanicilargorunsunmu = !kullanicilargorunsunmu" class="btn btn-info">
+                <i ng-show="kullanicilargorunsunmu" class="glyphicon glyphicon-eye-open"></i>
+                <i ng-show="!kullanicilargorunsunmu" class="glyphicon glyphicon-eye-close"></i>
+            </button>
+        </div>
+        <div class="col-md-12" ng-show="kullanicilargorunsunmu">
+            <div class="col-md-8">
+                <table class="table table-stripped">
+                    <tr>
+                        <th>Kullanıcı ID</th>
+                        <th>Ad Soyad</th>
+                        <th>İşlemler</th>
+                    </tr>
+                    <tr ng-repeat="x in kullanicilar">
+                        <td>{{x.KullaniciID}}</td>
+                        <td>{{x.AdSoyad}}</td>
+                        <td>
+                            <button ng-click="kullanicisil(x.KullaniciID)" class="btn btn-danger"><i class="glyphicon glyphicon-trash"></i></button>
+                            <button ng-click="kullaniciguncellemeverilerinidoldur(x)" class="btn btn-warning"><i class="glyphicon glyphicon-refresh"></i></button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="col-md-4">
+                <input type="text" class="form-control" placeholder="Ad Soyad giriniz" ng-model="ykullaniciadsoyad" /><br />
+                <button ng-show="guncellenecekkullaniciid == -1" class="btn btn-success" style="float:right" ng-click="kullaniciekle(ykullaniciadsoyad)">KAYDET</button>
+
+                <button ng-show="guncellenecekkullaniciid != -1" class="btn btn-info" style="float:right" ng-click="kullaniciyiguncelle(guncellenecekkullaniciid, ykullaniciadsoyad)">GÜNCELLE</button>
+                <button ng-show="guncellenecekkullaniciid != -1" class="btn btn-danger" style="float:right" ng-click="guncellenecekkullaniciid = -1; ykullaniciadsoyad=''">İPTAL</button>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="alert alert-warning">
+            <span>Ürünler</span>
+            <button ng-init="urungorunsunmu = false" ng-click="urungorunsunmu = !urungorunsunmu" class="btn btn-warning">
+                <i ng-show="urungorunsunmu" class="glyphicon glyphicon-eye-open"></i>
+                <i ng-show="!urungorunsunmu" class="glyphicon glyphicon-eye-close"></i>
+            </button>
+        </div>
+        <div class="col-md-12" ng-show="urungorunsunmu">
+            <div class="col-md-8">
+                <table class="table table-stripped">
+                    <tr>
+                        <th>Ürün Adı</th>
+                        <th>Marka</th>
+                        <th>Fiyat</th>
+                        <th>Stok</th>
+                        <th>İşlemler</th>
+                    </tr>
+                    <tr ng-repeat="x in urunler">
+                        <td>{{x.UrunAdi}}</td>
+                        <td>{{x.UrunMarkasi}}</td>
+                        <td>{{x.UrunFiyat}}</td>
+                        <td>{{x.StokAdedi}}</td>
+                        <td><button ng-click="urunsil(x.UrunID)" class="btn btn-danger"><i class="glyphicon glyphicon-trash"></i></button></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="col-md-4">
+                <input type="text" class="form-control" placeholder="Ürün Adını Giriniz" ng-model="urun.UrunAdi" /><br />
+                <input type="text" class="form-control" placeholder="Marka Giriniz" ng-model="urun.UrunMarkasi" /><br />
+                <input type="number" class="form-control" placeholder="Fiyat Giriniz" ng-model="urun.UrunFiyat" /><br />
+                <input type="number" class="form-control" placeholder="Stok Adedi" ng-model="urun.StokAdedi" /><br />
+                <button class="btn btn-success" style="float:right" ng-click="urunekle(urun)">KAYDET</button>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="alert alert-success">
+            <span>Satışlar</span>
+            <button ng-init="satislargorunsunmu = false" ng-click="satislargorunsunmu = !satislargorunsunmu" class="btn btn-success">
+                <i ng-show="satislargorunsunmu" class="glyphicon glyphicon-eye-open"></i>
+                <i ng-show="!satislargorunsunmu" class="glyphicon glyphicon-eye-close"></i>
+            </button>
+        </div>
+        <div class="col-md-12" ng-show="satislargorunsunmu">
+            <div class="col-md-8">
+                <table class="table table-stripped">
+                    <tr>
+                        <th>Ürün Adı</th>
+                        <th>Kullanıcı Adı</th>
+                        <th>Adet</th>
+                        <th>Tutar</th>
+                        <th>Satış Zamanı</th>
+                        <th>İşlemler</th>
+                    </tr>
+                    <tr ng-repeat="x in satislar">
+                        <td>{{x.UrunAdi}}</td>
+                        <td>{{x.KullaniciAdi}}</td>
+                        <td>{{x.SatisAdedi}}</td>
+                        <td>{{x.ToplamTutar}} TL</td>
+                        <td>{{x.SatisZamani}}</td>
+                        <td><button ng-click="satissil(x.SatisID)" class="btn btn-danger"><i class="glyphicon glyphicon-trash"></i></button></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="col-md-4">
+                <div class="col-md-12">
+                    <div class="col-md-3">Kullanıcı seçiniz</div>
+                    <div class="col-md-9">
+                        <select ng-model="satis.KullaniciID" class="form-control">
+                            <option ng-repeat="x in kullanicilar" value="{{x.KullaniciID}}">{{x.AdSoyad}}</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <div class="col-md-3">Ürün seçiniz</div>
+                    <div class="col-md-9">
+                        <select ng-model="satis.UrunID" class="form-control">
+                            <option ng-repeat="x in urunler" value="{{x.UrunID}}">{{x.UrunAdi}}</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="col-md-3">Satış Adedi</div>
+                    <div class="col-md-9">
+                        <input type="number" class="form-control" placeholder="Satış Adedi" ng-model="satis.SatisAdedi" /><br />
+                    </div>
+                </div>
+                <button class="btn btn-success" style="float:right" ng-click="satisekle(satis)">KAYDET</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,108 @@
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\csc.exe
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\vbc.exe
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\API.dll.config
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\API.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\API.pdb
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\Antlr3.Runtime.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\EntityFramework.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\EntityFramework.SqlServer.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\Newtonsoft.Json.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Net.Http.Formatting.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Cors.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Helpers.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Http.Cors.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Http.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Http.WebHost.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Mvc.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Optimization.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Razor.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.WebPages.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\WebGrease.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\EntityFramework.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\EntityFramework.SqlServer.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Net.Http.Formatting.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Http.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Http.Cors.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\Newtonsoft.Json.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Helpers.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Http.WebHost.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Mvc.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Optimization.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.Razor.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.WebPages.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\bin\Antlr3.Runtime.pdb
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\obj\Debug\API.dll
+C:\Users\sue\Source\Repos\banka git yeni\intprogApi\API\obj\Debug\API.pdb
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\csc.exe
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\vbc.exe
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\API.dll.config
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\API.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\API.pdb
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\Antlr3.Runtime.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\EntityFramework.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\EntityFramework.SqlServer.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\Newtonsoft.Json.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Net.Http.Formatting.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Cors.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Helpers.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Http.Cors.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Http.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Http.WebHost.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Mvc.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Optimization.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Razor.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.WebPages.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\WebGrease.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\EntityFramework.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\EntityFramework.SqlServer.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Net.Http.Formatting.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Http.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Http.Cors.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\Newtonsoft.Json.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Helpers.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Http.WebHost.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Mvc.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Optimization.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.Razor.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.WebPages.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\bin\Antlr3.Runtime.pdb
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\obj\Debug\API.dll
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\obj\Debug\API.pdb
+C:\Users\clama\OneDrive\Masaüstü\satisornegi\satisornegiproje\API\obj\Debug\API.csprojAssemblyReference.cache
